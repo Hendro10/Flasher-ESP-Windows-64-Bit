@@ -12,3 +12,4 @@ Maka, akan tampil tulisan NodeMCU custom build by frightania.com dan modul-modul
 Sumber: Membuat Aplikasi IoT: INTERNET OF THINGS
 Penulis: Hardana dan Radian Ferrari Isputra 
 Penerbit: Loka Media
+Terima kasih
